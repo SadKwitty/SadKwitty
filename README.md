@@ -1,4 +1,10 @@
-### Hi there 👋
+## Sad Cat here
+
+I am 13 Year old Kid who loves C++ C JavaScript Lua Python and Assembly, I personally hate Java and Visual Basic
+
+### Kwitten#7411
+
+Feel free to contact me
 
 <!--
 **SadKwitty/SadKwitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
