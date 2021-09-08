@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <img width="100px" src="https://cdn.discordapp.com/attachments/879896956896432272/885077514169511956/pcat2-modified.png" align="center" alt="Kwitty" />
+ <h2 align="center">Sad Kwitten</h2>
+ <p align="center"></p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
