@@ -25,7 +25,7 @@
 
 ### About me
 
-I am 13 Year Old Kid from Maldives, Currently Living in Jakarta, Indonesia.
+:)
 
 
 ### Languages
