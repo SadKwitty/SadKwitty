@@ -25,7 +25,9 @@
 
 ### About me
 
-:)
+Learning Windows Kernel Module Development
+
+**1337**
 
 
 ### Languages
